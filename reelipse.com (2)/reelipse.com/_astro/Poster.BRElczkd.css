@@ -1,0 +1,11 @@
+.poster[data-astro-cid-galvtxlt] {
+  container-type: inline-size;
+}
+@container (width<=130px) {
+  .meta[data-astro-cid-galvtxlt] {
+    display: none;
+  }
+  .ptitle[data-astro-cid-galvtxlt] {
+    font-size: 0.95rem;
+  }
+}
